@@ -10,6 +10,6 @@ ITC 230 - Advanced Javascript
 - Email: brenden.west@seattlecolleges.edu
 - Credits: 5
 
-Referance : https://github.com/brendenwest/itc298-s16
+Reference : https://github.com/brendenwest/itc298-s16
 
 

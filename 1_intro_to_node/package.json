@@ -1,0 +1,19 @@
+{
+  "name": "itc230_homework_1",
+  "version": "1.0.0",
+  "description": "Server that can display indicated homepage file, returns about page, and returns a 404 for other requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Spencer Echon",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "github.com/sechon/itc230-s17/1_intro_to_node/"
+  },
+  "keywords": [
+    "server", "js", "nodejs"
+  ]
+}
